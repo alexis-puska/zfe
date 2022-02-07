@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## ZFE
 
 You can use the [editor on GitHub](https://github.com/alexis-puska/zfe/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
